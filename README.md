@@ -2,7 +2,7 @@
 
 
 <img src="https://img.shields.io/badge/React-#61DAFB?style=flat&logo=React&logoColor=white"/>
-<img src="https://img.shields.io/badge/github-#FFCA28?style=flat-square&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/github-#FFCA28?style=flat-square&logo=github&logoColor=white"/>
 <!--
 **lee9805/lee9805** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
